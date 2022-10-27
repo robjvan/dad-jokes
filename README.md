@@ -1,6 +1,6 @@
 # Dad Jokes
 
-![Thumbnail](https://robjvan.github.io/dad-jokes/thumbnail.png)
+![Thumbnail](https://raw.githubusercontent.com/robjvan/dad-jokes/master/thumbnail.png)
 
 ## [robjvan.github.io/dad-jokes/](https://robjvan.github.io/dad-jokes/)  
 
